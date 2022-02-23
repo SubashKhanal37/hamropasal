@@ -11,7 +11,7 @@ export default class App extends Component {
             div >
             <
             h1 > welcome welccome keta ho sikam milera aba😂😂😂 < /h1> <
-            h1 > Chutiya banayo ta < /h1>< /
+            h1 > Chutiya banayo ta ho < /h1>< /
             div >
         )
     }
